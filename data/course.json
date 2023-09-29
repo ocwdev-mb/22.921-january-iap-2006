@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "legacy_uid": "a8c3ad0c-2654-f640-351a-3dd1714adee4",
+  "instructors": {
+    "content": [
+      "e4132d00-4775-4db7-4659-a16a79834c3c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "49e8c791-b9a4-332c-bd2e-60860cfd5cb8",
+    "website": "22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006"
+  },
+  "course_title": "Nuclear Power Plant Dynamics and Control",
+  "course_description": "This short course provides an introduction to reactor dynamics including subcritical multiplication, critical operation in absence of thermal feedback effects and effects of Xenon, fuel and moderator temperature, etc. Topics include the derivation of point kinetics and dynamic period equations; techniques for reactor control including signal validation, supervisory algorithms, model-based trajectory tracking, and rule-based control; and an overview of light-water reactor startup. Lectures and demonstrations employ computer simulation and the use of the MIT Research Reactor.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.921",
+  "course_image_thumbnail": {
+    "content": "b6b38fde-0990-21b6-92fa-273e53f720d8",
+    "website": "22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Written Assignments"
+  ],
+  "site_uid": "133ffb2d-d130-4a1f-83c4-42e15206cc09",
+  "site_short_id": "22.921-january-iap-2006",
+  "title": "Course Metadata"
+}
